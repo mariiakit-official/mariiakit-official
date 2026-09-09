@@ -8,8 +8,8 @@ I'm currently working on Medline Operations Problem Navigator
 **My goal this cycle** deliver MVP and be the chosen one
 
 **Reach me @**
-+ My gmail account[(mailto:mariiakit-tech@gmail.com)]
-+ My LinkedIn profile[(https://linkedin.com/in/mariia-kit-profile)]
++[My gmail account](mailto:mariiakit-tech@gmail.com)
++ [My LinkedIn profile](https://linkedin.com/in/mariia-kit-profile)
 
 
 
