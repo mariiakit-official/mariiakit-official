@@ -3,7 +3,7 @@ I'm in cycle 60 intern wit I.C.stars.
 
 I'm currently working on Medline Operations Problem Navigator
 
-**Currently building** building an internal app for handling tickets system for Medline 
+**Currently building** an internal app for handling tickets system for Medline 
 
 **My goal this cycle** deliver MVP and be the chosen one
 
