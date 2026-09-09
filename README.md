@@ -1,4 +1,10 @@
+<div>
+<img src="https://github.com/mariiakit-official.png" width ="150">
+  
+
 ## Hi, my name is Mariia Kit👋
+
+</div>
 I'm in cycle 60 intern wit I.C.stars.
 
 I'm currently working on Medline Operations Problem Navigator
