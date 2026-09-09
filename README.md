@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi, my name is Mariia Kit👋
+I'm in cycle 60 intern wit I.C.stars.
 
+I'm currently working on Medline Operations Problem Navigator
+
+**Currently building** designing an app for Medline 
 <!--
 **mariiakit-official/mariiakit-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
