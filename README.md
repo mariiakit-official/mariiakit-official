@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 <img src="https://github.com/mariiakit-official.png" width ="150">
   
 
